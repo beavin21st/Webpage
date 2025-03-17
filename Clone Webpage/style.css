@@ -1,0 +1,18 @@
+/* div {
+    display: block;
+    unicode-bidi: isolate;
+}
+header{
+    position:sticky;
+}
+body {
+    font-size: 15px;
+    font-weight: 500;
+    color: #808080;
+}
+.de-flex-col{
+    display: flex;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
