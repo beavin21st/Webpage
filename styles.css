@@ -1,0 +1,9 @@
+/* Reset some default styles */
+body, ul {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+body ,html{
+    overflow-x: hidden;     /*To restrict the horizontal Flow*/
+}
