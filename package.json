@@ -1,0 +1,19 @@
+{
+  "name": "blank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./style.css -o ./dist/style.css --minify",
+    "watch": "tailwindcss -i ./style.css -o ./css/main.css--watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  },
+  "dependencies": {
+    "pagedone": "^1.1.2"
+  }
+}
